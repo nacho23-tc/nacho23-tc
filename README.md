@@ -24,16 +24,7 @@ Desarrollo aplicaciones y acompaño proyectos educativos de ciencia, tecnología
 - **Proyectos con estudiantes:** organización del trabajo, integración de soluciones, pruebas y documentación.
 - **Tecnología aplicada:** análisis de imágenes, herramientas educativas y proyectos vinculados con necesidades de la comunidad.
 
-## Proyectos destacados
 
-| Proyecto | Enfoque | Tecnologías |
-|---|---|---|
-| [SIMAC Coroneo](https://github.com/nacho23-tc/SIMAC-Coroneo) | Análisis de imágenes de granos y registro de muestras de maíz criollo. Participación como asesor del equipo durante TrackTalents ITESI 2026. | Python, Cellpose, FastAPI, React y TypeScript |
-| [Kris Learning IA](https://github.com/nacho23-tc/Kris_Learning_IA) | Plataforma educativa con funciones de personalización para estudiantes, docentes y el área psicopedagógica. | Python, Django y API REST |
-| [LearnNow](https://github.com/nacho23-tc/LearnNow) | Proyecto educativo de gestión de cursos, participantes y eventos de entrenamiento. | Python, Tkinter y MongoDB |
-| [Taller de Python](https://github.com/nacho23-tc/TallerPython-CodigoLAB1y2) | Código de los laboratorios uno y dos del taller básico de Python. | Python |
-
-Los alcances, el estado y los créditos de cada proyecto se describen en sus respectivos repositorios. SIMAC continúa un trabajo de investigación de ITESI y la Universidad Autónoma Agraria Antonio Narro, con las aportaciones reconocidas en su documentación.
 
 ## Herramientas que utilizo
 
